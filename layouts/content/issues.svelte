@@ -10,13 +10,13 @@
 
   <ul>
     <li>
-      navigation.svelte is based on svelte class directive 'https://svelte.dev/tutorial/classes'. it's wonky here. [collections] and [about] links has to be double-clicked for css to take effect. links are working though. [home] and [posts] are okay.
+      navigation.svelte is based on svelte class directive 'https://svelte.dev/tutorial/classes'. it's wonky here. [collections] and [about] links have to be double-clicked for css to take effect. links are working though. [home] and [posts] are okay.
       resolved. svelte prop passing. <span class="date">/2021.04.17</span>
     </li>
     <br>
 
     <li>
-      links... have to be refreshed.resolved. there is something wonky with current plenti version. if you turn off javascript, this issue goes away. <span class="date">/2021.04.17</span>
+      links... have to be refreshed. i'm not sure what's going on here but after watcing jantcu/plenti bigspring: part 18 video, tried turning off javascript, and funky stuff went away. tried running public folder on npm-http-server, links need refreshing. turned off js, funky stuff went away. using FF. tried it on brave, same thing...
     </li>
 
   </ul>
